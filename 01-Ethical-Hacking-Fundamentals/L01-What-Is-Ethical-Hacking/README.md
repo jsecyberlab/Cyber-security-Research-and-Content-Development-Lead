@@ -19,12 +19,14 @@ o	Key Points
 o	Lab Work
 This is an introductory lesson so no lab work is required.
 
-o	Tools Mentioned
-Tool 	What It Does 
-Nmap 	Network Scanning 
-Wireshark	Traffic capture and analysis
-Burp Suite 	Web Testing 
-Metasploit 	Exploitation Framework 
+| Tool | What It Does |
+| Nmap | Network scanning |
+
+| Wireshark | Traffic capture and analysis |
+
+| Burp Suite | Web app testing |
+
+| Metasploit | Exploitation framework |
 
 o	Links
 My Research Notes: (notes.md)
