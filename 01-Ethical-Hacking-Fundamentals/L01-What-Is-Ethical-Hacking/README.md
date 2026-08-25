@@ -39,4 +39,4 @@ o	Related Lessons
 L02: White Hat, Black Hat & Grey Hat Hackers Explained
 L03: IP Addresses Explained
 
-Part of the JSE Cyber Lab:(https://github.com/YOUR_USERNAME/JSE-Cyber-Lab) learning series
+Part of the JSE Cyber Lab:[https://github.com/jsecyberlab/Cyber-security-Research-and-Content-Development-Lead.git] learning series
