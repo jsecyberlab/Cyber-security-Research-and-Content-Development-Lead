@@ -37,6 +37,6 @@ Vulnerability: A weakness in a system, like an unpatched software bug or misconf
 Exploit: A technique or tool that takes advantage of a vulnerability to gain unauthorised access or cause an effect.
 Example: An outdated web server running on a system is a vulnerability. The Metasploit module that uses that vulnerability to gain access is an exploit.
 Where To Submit
-Share your completed assignment in the [GitHub repository](https://github.com/YOUR_USERNAME/JSE-Cyber-Lab] or post it in the comments.
+Share your completed assignment in the [GitHub repository: https://github.com/jsecyberlab/Cyber-security-Research-and-Content-Development-Lead.git] or post it in the comments.
 
 *Back to [README](README.md)*
