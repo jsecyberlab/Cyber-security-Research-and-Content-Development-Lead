@@ -1,6 +1,6 @@
 L01: What Is Ethical Hacking
 Video
-Watch on YouTube: ()
+Watch on YouTube: https://youtu.be/vvWkH0wfZIA
 
 o	What This Lesson Covers
 •	What ethical hacking actually is
